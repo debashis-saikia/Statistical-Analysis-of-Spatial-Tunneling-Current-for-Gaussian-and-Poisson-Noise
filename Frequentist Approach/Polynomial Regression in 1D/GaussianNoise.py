@@ -114,3 +114,4 @@ def reduced_chi_square(x, y, beta, sigma, model_func, p):
     
     return chi2 / nu
 
+
